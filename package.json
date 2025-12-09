@@ -1,6 +1,6 @@
 {
   "name": "time-off-tracker",
-  "homepage": "https://npmanos.github.io/timeoff",
+  "homepage": "https://nick.manos.tech/timeoff",
   "private": true,
   "version": "0.0.1",
   "type": "module",
